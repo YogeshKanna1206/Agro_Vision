@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Pradhan Mantri Fasal Bima Yojana",
+        "description": "Provides comprehensive insurance against the failure of crops.",
+        "benefit": "Financial support for crop loss due to natural calamities.",
+        "link": "https://agri-insurance.gov.in/"
+    },
+    {
+        "name": "Kisan Credit Card (KCC)",
+        "description": "Credit scheme for farmers to meet short-term financial requirements.",
+        "benefit": "Access to timely and adequate credit at low interest rates.",
+        "link": "https://www.india.gov.in/spotlight/kisan-credit-card-scheme"
+    },
+    {
+        "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+        "description": "Aimed at promoting organic farming through cluster development.",
+        "benefit": "Incentives for adoption of organic farming and certification.",
+        "link": "https://pgsindia-ncof.gov.in/"
+    },
+    {
+        "name": "e-NAM (National Agriculture Market)",
+        "description": "An online trading platform for agricultural commodities.",
+        "benefit": "Better price discovery and transparency for farmers across markets.",
+        "link": "https://www.enam.gov.in/"
+    }
+]
