@@ -26,7 +26,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['UPLOAD_FOLDER'] = 'static/uploads'
 
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
-OPENWEATHER_API_KEY =  '63d95b475932d00be16a35ed303e217b'
+OPENWEATHER_API_KEY =  '63d95b475932d00be16a35ede217b'
 
 # --- FIX: Robust API Key Check ---
 # If the key is missing from the environment, assign a placeholder.
