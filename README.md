@@ -77,14 +77,14 @@ Gemini API
 
 Frontend
 
-  HTML
-  
-  Jinja2 Templates
-  
-  Tailwind CSS
+      HTML
+      
+      Jinja2 Templates
+      
+      Tailwind CSS
 
 Architecture
 
-  Modular Flask architecture
-  
-  Scalable and API-driven design
+      Modular Flask architecture
+      
+      Scalable and API-driven design
